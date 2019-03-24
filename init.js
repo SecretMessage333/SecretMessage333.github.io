@@ -3,7 +3,7 @@ var day=d.getDate();
 var month=d.getMonth() + 1;
 var year=d.getFullYear();
 
-if ((day + "." + month + "." + year)=='3.1.2012'){
+if ((day + "." + month + "." + year)=='3.1.2019'){
   document.getElementById("myspan").innerHTML="Пролей свет.";
   document.getElementById("imger").src="photo.png";
 }
